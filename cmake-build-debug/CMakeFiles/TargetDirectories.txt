@@ -1,0 +1,3 @@
+D:/desktop/C++/Coding/Project/reservations/cmake-build-debug/CMakeFiles/reservations.dir
+D:/desktop/C++/Coding/Project/reservations/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/desktop/C++/Coding/Project/reservations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
